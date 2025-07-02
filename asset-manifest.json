@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mi-pagina-sencilla-react/static/css/main.209fe89e.css",
+    "main.js": "/mi-pagina-sencilla-react/static/js/main.e9e96f28.js",
+    "static/js/453.f8f8494b.chunk.js": "/mi-pagina-sencilla-react/static/js/453.f8f8494b.chunk.js",
+    "index.html": "/mi-pagina-sencilla-react/index.html",
+    "main.209fe89e.css.map": "/mi-pagina-sencilla-react/static/css/main.209fe89e.css.map",
+    "main.e9e96f28.js.map": "/mi-pagina-sencilla-react/static/js/main.e9e96f28.js.map",
+    "453.f8f8494b.chunk.js.map": "/mi-pagina-sencilla-react/static/js/453.f8f8494b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209fe89e.css",
+    "static/js/main.e9e96f28.js"
+  ]
+}
